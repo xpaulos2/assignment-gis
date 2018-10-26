@@ -20,8 +20,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: `Zobrazí u obcí a miest detailne informacie o veľkosti, počte obyvatelov a hustote obyvatelstva od roku 1996 do 2017. Zobrazit na mape podla farby ci v obci rastie pocet obyvatelov alebo kde ubuda, zistit kde sa najviac ludí odchádza a kam prichádza, tieto údaje zvyraznit na mape, zobrazenie obci ktoré vyhovuju zadaným parametrom ako velkost, pocet obyvatelov a hustota obyvatelstva.`
 
-**Data source**: `<fill in>`
+**Data source**: `Údaje o rozlohe, počte obyvatelov a hustote obyvatelstva z  http://datacube.statistics.sk/#!/view/sk/VBD_DEM/om7014rr/Hustota%20obyvate%C4%BEstva%20-%20obce%20%5Bom7014rr%5D`
 
-**Technologies used**: `<fill in>`
+**Technologies used**: `C#, ASP.NET`
